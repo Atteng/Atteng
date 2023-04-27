@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Atteng Simeon
 - 👀 I’m interested in Gaming, LitRPG Novels & Self-Development
-- 🌱 I’m currently learning Java, Motion Design & Sculpting
+- 🌱 I’m currently learning Flutter, Motion Design & Sculpting
 - 💞️ I’m open to collaborate on any project within my knowledge
 - 📫 You can reach me @[Instagram](https://www.instagram.com/simeonsphotographyng/) @[LinkedIn](https://www.linkedin.com/in/awaji-iyaham-atteng-b6b558177/)
 
